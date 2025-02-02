@@ -17,8 +17,7 @@
 
 ## Technologies
 - **Python**: Data cleaning, EDA, and visualization.  
-- **SQL**: Crime data storage and querying.  
-- **Power BI/Tableau**: Interactive dashboards and trend analysis.  
+- **Power BI**: Crime data storage and querying, Interactive dashboards and trend analysis.  
 
 ## Dataset
 The project uses Chicago crime data, which includes:  
